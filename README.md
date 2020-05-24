@@ -1,27 +1,48 @@
 # Traffic_Sign_Classification
 The following are the list of German traffic signs with 43 classes.
-47429 images splits into 34799 training dataset and 12630 testing dataset
+47429 images splits into 34799 training dataset and 12630 testing dataset.
 ( 0, b'Speed limit (20km/h)')
+
 ( 1, b'Speed limit (30km/h)')
+
 ( 2, b'Speed limit (50km/h)') 
+
 ( 3, b'Speed limit (60km/h)')
+
 ( 4, b'Speed limit (70km/h)') 
+
 ( 5, b'Speed limit (80km/h)')
+
 ( 6, b'End of speed limit (80km/h)') 
+
 ( 7, b'Speed limit (100km/h)')
+
 ( 8, b'Speed limit (120km/h)') 
+
 ( 9, b'No passing')
+
 (10, b'No passing for vehicles over 3.5 metric tons')
+
 (11, b'Right-of-way at the next intersection') 
+
 (12, b'Priority road')
+
 (13, b'Yield') (14, b'Stop') 
+
 (15, b'No vehicles')
+
 (16, b'Vehicles over 3.5 metric tons prohibited') 
+
 (17, b'No entry')
+
 (18, b'General caution') 
+
 (19, b'Dangerous curve to the left')
+
 (20, b'Dangerous curve to the right') 
+
 (21, b'Double curve')
+
 (22, b'Bumpy road') 
 (23, b'Slippery road')
 (24, b'Road narrows on the right') 
