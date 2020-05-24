@@ -2,6 +2,7 @@
 The following are the list of German traffic signs with 43 classes.
 47429 images split into 34799 training dataset and 12630 testing dataset.
 ( 0, b'Speed limit (20km/h)')
+
 ( 1, b'Speed limit (30km/h)')
 
 ( 2, b'Speed limit (50km/h)') 
@@ -43,23 +44,43 @@ The following are the list of German traffic signs with 43 classes.
 (21, b'Double curve')
 
 (22, b'Bumpy road') 
+
 (23, b'Slippery road')
+
 (24, b'Road narrows on the right') 
+
 (25, b'Road work')
+
 (26, b'Traffic signals') 
+
 (27, b'Pedestrians') 
+
 (28, b'Children crossing')
+
 (29, b'Bicycles crossing') 
+
 (30, b'Beware of ice/snow')
+
 (31, b'Wild animals crossing')
+
 (32, b'End of all speed and passing limits') 
+
 (33, b'Turn right ahead')
+
 (34, b'Turn left ahead') 
+
 (35, b'Ahead only') 
+
 (36, b'Go straight or right')
+
 (37, b'Go straight or left') 
+
 (38, b'Keep right') 
+
 (39, b'Keep left')
+
 (40, b'Roundabout mandatory') 
+
 (41, b'End of no passing')
+
 (42, b'End of no passing by vehicles over 3.5 metric tons')
