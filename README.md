@@ -1,6 +1,7 @@
 # Traffic_Sign_Classification
 The following are the list of German traffic signs with 43 classes.
 47429 images split into 34799 training dataset and 12630 testing dataset.
+
 ( 0, b'Speed limit (20km/h)')
 
 ( 1, b'Speed limit (30km/h)')
