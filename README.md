@@ -8,7 +8,7 @@ This dataset consists of 50000 images of 43 classes.
 
 * Load the Dataset (Train, Test, Valid)
 * Data exploration (Sample image)
-* Data preparation
+* Data preparation (Shuffling)
 * Build, Train, and Test the model
 
 
